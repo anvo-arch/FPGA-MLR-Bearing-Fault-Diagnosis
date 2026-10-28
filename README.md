@@ -32,9 +32,6 @@ The original research files from the project ZIP are intentionally kept in the s
 ```text
 .
 ├── README.md
-├── CITATION.cff
-├── ZENODO_SETUP.md
-├── .gitignore
 │
 ├── MLR_3feat/
 │   ├── scripts/
