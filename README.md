@@ -427,7 +427,7 @@ Normalized: ~15.00 ns/sample
 
 # Citation
 
-The first public software release should be archived through Zenodo. After Zenodo assigns the DOI, replace `DOI_PENDING`:
+After Zenodo assigns the DOI, replace `DOI_PENDING`:
 
 ```bibtex
 @software{vo2026fpga_mlr,
@@ -442,12 +442,8 @@ The first public software release should be archived through Zenodo. After Zenod
 }
 ```
 
-The paper DOI and source-code DOI are separate. Use the official IEEE DOI for the paper once assigned.
-
-See [`ZENODO_SETUP.md`](ZENODO_SETUP.md).
-
 ---
 
 ## License
 
-No license is assigned here. Confirm the license with all authors/advisors before creating the public `v1.0.0` release.
+MIT. See LICENSE.
