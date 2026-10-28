@@ -56,8 +56,6 @@ The original research files from the project ZIP are intentionally kept in the s
         └── tb_logistic.cpp
 ```
 
-> GitHub sorts files and folders in its web interface, so a custom visual file order cannot be forced. The directory hierarchy and filenames above are the reproducibility-relevant structure and are preserved exactly.
-
 ---
 
 ## File descriptions
