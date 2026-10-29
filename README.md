@@ -337,12 +337,11 @@ Run:
 
 1. C Simulation
 2. C Synthesis
-3. C/RTL Co-simulation if desired
-4. Package/export IP for Vivado
+3. Export IP for Vivado
 
 ## 7. Vivado integration
 
-The supplied ZIP contains the research source hierarchy, not a full Vivado project reconstruction script. The HLS interface contract is:
+The Vivado block diagram should contain:
 
 ```text
 input_stream0 : 64-bit AXI4-Stream
